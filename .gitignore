@@ -1,0 +1,4 @@
+# to ignore all txt files
+*.txt
+! 3.txt
+hey.js
